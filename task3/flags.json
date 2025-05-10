@@ -1,0 +1,19 @@
+{
+    "new_dashboard": {
+      "default": false,
+      "regions": {
+        "EU": true
+      },
+      "users": {
+        "42": true,
+        "77": false
+      }
+    },
+    "beta_search": {
+      "default": true,
+      "regions": {
+        "US": false
+      }
+    }
+  }
+  
